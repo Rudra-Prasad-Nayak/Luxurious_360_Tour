@@ -114,4 +114,4 @@ Feel free to share your thoughts, improvements, or feature ideas! I’d love to 
 
 Thank you for checking out the **Luxurious_360_Tour** app! We hope it provides a seamless and engaging virtual tour experience. For any issues or suggestions, please open an issue on GitHub.
 
-Enjoy Typing Master? Give it a ⭐ on GitHub!
+Enjoy Luxurious_360_Tour? Give it a ⭐ on GitHub!
