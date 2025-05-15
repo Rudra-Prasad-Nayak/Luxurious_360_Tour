@@ -31,7 +31,7 @@ An immersive web application that allows users to virtually explore a luxurious 
 /src
     /components
         Home.jsx         # Landing page with thumbnails
-        RoomView\.jsx    # 360° panoramic view
+        RoomView.jsx    # 360° panoramic view
     App.jsx
 ```
 
