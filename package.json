@@ -1,0 +1,42 @@
+{
+  "homepage": "https://Rudra-Prasad-Nayak.github.io/Luxurious_360_Tour",
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.83.3",
+    "@react-three/fiber": "^8.13.2",
+    "@shadcn/ui": "^0.0.4",
+    "@tailwindcss/vite": "^4.1.3",
+    "framer-motion": "^12.6.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-pannellum": "^0.2.16",
+    "react-router-dom": "^6.30.0",
+    "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.21.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "gh-pages": "^6.3.0",
+    "globals": "^15.15.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.2.0"
+  }
+}
