@@ -15,7 +15,7 @@ An immersive web application that allows users to virtually explore a luxurious 
 
 - ⚛️ React.js (with React Router)
 - 💨 Tailwind CSS for styling
-- 🌐 @react-three/fiber & drei for 3D 360° experience
+- 🌐 @react-three/fiber & drei for 360° experience
 - ⚡ Vite for blazing fast setup
 
 ## 📸 Live Preview
