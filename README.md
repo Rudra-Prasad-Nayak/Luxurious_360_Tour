@@ -18,22 +18,21 @@ An immersive web application that allows users to virtually explore a luxurious 
 - 🌐 @react-three/fiber & drei for 3D 360° experience
 - ⚡ Vite for blazing fast setup
 
-## 📸 Live Demo
-> *Explore a stunning virtual tour from your browser.*
+## 📸 Live Preview
 
-![Luxurious 360 Tour Demo](./public/assets/demo.png)
+![Luxurious 360 Tour Demo](./public/assets/Demo.png)
 
 ## 📁 Folder Structure
 
 ```
 /public
-/assets          # 360° images for each room
+/assets                  # 360° images for each room
 
 /src
-/components
-Home.jsx       # Landing page with thumbnails
-RoomView\.jsx   # 360° panoramic view
-App.jsx
+    /components
+        Home.jsx         # Landing page with thumbnails
+        RoomView\.jsx    # 360° panoramic view
+    App.jsx
 ```
 
 ## 🛠️ Installation & Usage
@@ -60,6 +59,32 @@ App.jsx
     npm run build
     ```
 
+## 🧪 Usage
+
+1. Launch the app in your browser.
+2. Explore the elegant landing page with a central house image and clickable room thumbnails.
+3. Click on any room thumbnail to enter a 360° panoramic view of that room.
+4. Use your mouse or touch gestures to look around the room in all directions.
+5. Press the back button to return to the home page and explore another room.
+6. Switch between light and dark mode anytime using the toggle button in the navbar for a personalized experience.
+
+## 🔮 Future Enhancements
+
+- 🌗 **Improved Light/Dark Mode Toggle**
+- 🏠 **More Room Views**
+- 🗺️ **Interactive Floor Plan**
+- 🧭 **Mini-map Navigation**
+- 🔊 **Ambient Sound Effects**
+- 📦 **Dynamic Asset Loading**
+- 🖼️ **Furniture Tagging**
+- 🌍 **Multilingual Support**
+- 📱 **Mobile App Version** 
+- 🕶️ **VR Headset Compatibility**
+
+## 🤝 Contribution
+
+Feel free to fork this repo, raise issues, or submit pull requests. All contributions are welcome!
+
 ## 🔗 Connect with Me
 
 * [🌐 GitHub](https://github.com/Rudra-Prasad-Nayak)
@@ -74,6 +99,7 @@ If you found this project helpful or inspiring:
 * ☕ Support me on [Buy Me a Coffee](https://buymeacoffee.com/rudraprasa3)
 
 Your support motivates me to build more cool stuff! 💖
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.
@@ -83,3 +109,9 @@ See the [LICENSE](./LICENSE) file for full details.
 ## 💬 Feedback
 
 Feel free to share your thoughts, improvements, or feature ideas! I’d love to hear from you.
+
+## Conclusion
+
+Thank you for checking out the **Luxurious_360_Tour** app! We hope it provides a seamless and engaging virtual tour experience. For any issues or suggestions, please open an issue on GitHub.
+
+Enjoy Typing Master? Give it a ⭐ on GitHub!
